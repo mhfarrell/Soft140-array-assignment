@@ -1,0 +1,6 @@
+\\Filespace\Home\mfarrell1\Downloads\Soft140\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+\\Filespace\Home\mfarrell1\Downloads\Soft140\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+\\Filespace\Home\mfarrell1\Downloads\Soft140\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+\\Filespace\Home\mfarrell1\Downloads\Soft140\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csprojResolveAssemblyReference.cache
+\\Filespace\Home\mfarrell1\Downloads\Soft140\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+\\Filespace\Home\mfarrell1\Downloads\Soft140\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
